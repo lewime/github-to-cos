@@ -13,7 +13,6 @@ var gallyJson = [{
     cdn: "https://jdsharedresourcescdn.azureedge.net/jdresource"
 }]
 
-
 !(async() => {
     console.time('github-to-cos')
     console.log('====== start github-to-cos =====\n')
